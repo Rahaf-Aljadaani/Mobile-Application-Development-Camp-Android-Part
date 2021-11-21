@@ -2,4 +2,4 @@
 
 OUTPUT
 
-![Screenshot](./img/output.png)
+![Screenshot](./img/output.PNG)
