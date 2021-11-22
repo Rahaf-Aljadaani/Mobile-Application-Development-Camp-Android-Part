@@ -5,8 +5,8 @@ OUTPUT
 
 1/
 
-![Screenshot](./img/311.PNG)
+![Screenshot](./img/11.PNG)
 
 2/
 
-![Screenshot](./img/312.PNG)
+![Screenshot](./img/12.PNG)
