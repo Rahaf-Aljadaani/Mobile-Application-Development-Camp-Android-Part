@@ -1,6 +1,6 @@
 # Country Capitals (Game)
 
-DONE - Randomly select three countries 
+:heavy_check_mark: - Randomly select three countries 
 
 DONE - Final score out of 3
 
