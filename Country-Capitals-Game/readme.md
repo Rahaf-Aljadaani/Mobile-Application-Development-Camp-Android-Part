@@ -2,11 +2,12 @@
 
 :heavy_check_mark: - Randomly select three countries 
 
-DONE - Final score out of 3
+:heavy_check_mark: - Final score out of 3
 
-DONE - No repet quations
+:heavy_check_mark: - No repet quations
 
-DONE - Start a new game if they want to play again 
+:heavy_check_mark: - Start a new game if they want to play again 
+
 
 
 OUTPUT
