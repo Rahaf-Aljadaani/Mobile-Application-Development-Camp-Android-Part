@@ -8,7 +8,9 @@ fun main (){
     var num = readLine()
     try {
         when(num!!.toInt()){
-            numRandom -> println("You get it!")
+            numRandom -> {
+                println("You get it!")
+                break }
             else -> println("Wrong guess, the answer is $numRandom !")
         }
         count++
