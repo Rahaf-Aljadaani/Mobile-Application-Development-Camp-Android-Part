@@ -1,14 +1,13 @@
 # Numbers Game (Full)
 
 OUTPUT
+
 1/
 
-![Screenshot](./img/211.PNG)
+![32](https://user-images.githubusercontent.com/66742756/142980414-475a7c7b-da5b-4463-b319-cd7faa5076fd.PNG)
+
 
 2/
 
-![Screenshot](./img/212.PNG)
 
-3/
-
-![Screenshot](./img/213.PNG)
+![21](https://user-images.githubusercontent.com/66742756/142980421-0088e8ca-e41a-4f8f-9212-4e1dfd910744.PNG)
