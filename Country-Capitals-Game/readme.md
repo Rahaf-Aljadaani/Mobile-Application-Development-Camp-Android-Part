@@ -1,9 +1,13 @@
 # Country Capitals (Game)
 
 DONE - Randomly select three countries 
+
 DONE - Final score out of 3
+
 DONE - No repet quations
+
 DONE - Start a new game if they want to play again 
+
 
 OUTPUT
 
