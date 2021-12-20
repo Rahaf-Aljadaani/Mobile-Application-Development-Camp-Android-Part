@@ -34,8 +34,9 @@ class MainActivity : AppCompatActivity() {
 
         clRoot = findViewById(R.id.clRoot)
         rvMain = findViewById(R.id.recacl)
+        
         rvMain.layoutManager = LinearLayoutManager(this)
-
+        rvMain.adapter = itemAdapter(listOfText)
         parserRSS()
 
 
@@ -48,7 +49,6 @@ class MainActivity : AppCompatActivity() {
             }.await()
             try {
                 withContext(Main){
-                    rvMain.adapter = itemAdapter(listOfText)
                     rvMain.adapter!!.notifyDataSetChanged()
                 }
             }catch (e : java.lang.Exception){
