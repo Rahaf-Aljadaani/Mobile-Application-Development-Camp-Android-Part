@@ -11,7 +11,9 @@ nice game
 I did not have time and I found some difficult in some exercises , so I had to focus in =(
 
 # Core Concepts Discussion
-
 good
+
+# Review Notes App
+nice =)
 
 
