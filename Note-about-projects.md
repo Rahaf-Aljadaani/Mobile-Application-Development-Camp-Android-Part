@@ -18,3 +18,7 @@ nice =)
 
 # Review Notes App (Full)
 yes I understand now
+
+
+# Review SQLite and Room
+Room not easy 
