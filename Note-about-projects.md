@@ -22,3 +22,6 @@ yes I understand now
 
 # Review SQLite and Room
 Room not easy 
+
+# Review Notes App
+nice =)
